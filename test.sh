@@ -12,7 +12,7 @@ git add .
 
 git commit -m "Updating files"
 
-git remote add origin https://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@github.com/Luke-Frazer/cs305_lef92.git
+git remote add https://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@github.com/Luke-Frazer/cs305_lef92.git
 
 git remove -v
 
