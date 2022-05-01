@@ -14,6 +14,4 @@ git commit -m "Updating files"
 
 git remote add https://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@github.com/Luke-Frazer/cs305_lef92.git
 
-git remote -v
-
 git push origin main
